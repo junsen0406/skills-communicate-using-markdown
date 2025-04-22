@@ -10,3 +10,8 @@
 ```python
 def hello():
     print("Hello, Markdown!")
+
+
+- [x] 打开 GitHub Pages
+- [x] 编写我的作品集大纲
+- [x] 向世界介绍自己
